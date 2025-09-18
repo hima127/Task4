@@ -440,15 +440,6 @@ footer .social-links ul li a {
         padding-top: 76px;
     }
 
-    header .navbar ul li a {
-        display: block;
-        margin: 10px;
-        padding: 5px;
-        text-align: center;
-    
-    
-    
-    }
 
 
     header {
@@ -493,10 +484,13 @@ footer .social-links ul li a {
         display: block;
         text-decoration: none;
         color: #fff;
-        padding: 10px;
+        padding: 5px;
+        
         text-align: center;
         transition: background 0.3s;
     }
+
+
 
     .hamburger:hover+.navbar,
     .navbar:hover {

@@ -207,8 +207,8 @@ img {
 
 
 .btn:hover {
-   background-color: #14746c;
-   color:white;
+    background-color: #14746c;
+    color: white;
 }
 
 .box-left-top {
@@ -454,22 +454,12 @@ footer .social-links ul li a {
         padding-top: 76px;
     }
 
-    header .navbar ul li a {
-        display: block;
-        margin: 10px;
-        padding: 5px;
-        text-align: center;
-    }
-
-
 
 
     header .navbar ul li {
         display: block;
         width: 100%;
         margin: 10px;
-
-
     }
 
     header {
@@ -499,18 +489,13 @@ footer .social-links ul li a {
         width: 190px;
     }
 
-    .navbar ul {
-        list-style: none;
-        margin: 0;
-        padding: 0;
-    }
-
 
     .navbar ul li a {
         display: block;
         text-decoration: none;
         color: #fff;
         padding: 10px;
+        margin: 10px;
         text-align: center;
         transition: background 0.3s;
     }
@@ -598,7 +583,7 @@ footer .social-links ul li a {
 
 
 @media screen and (max-width:703px) {
-img{
+    img {
         width: 100% !important;
         float: none;
         margin: 0 !important;
